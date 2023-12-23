@@ -1,0 +1,5 @@
+1.-Edicion Titulo y nombres
+2.-Linkeo de URL vacios a URL internos
+3.-Edicion Zona "Acerca de mi"
+4.-Edicion zona "Mis trabajos"
+5.-Edicion Zona "Contactame"
