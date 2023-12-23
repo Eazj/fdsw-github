@@ -2,7 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Hero Section  header*/
 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
@@ -19,7 +19,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.iconos{
+  font-size: 4rem;
+}
 /* Contacto */
 
 #Contacto form label {
